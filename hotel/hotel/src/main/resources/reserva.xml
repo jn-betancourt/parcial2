@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.12" class="java.beans.XMLDecoder">
+ <object class="com.hotel.models.Reserva">
+  <void property="cliente">
+   <string>1</string>
+  </void>
+  <void property="codigo">
+   <int>1</int>
+  </void>
+  <void property="fechaReserva">
+   <string></string>
+  </void>
+  <void property="numeroHabitacion">
+   <int>1</int>
+  </void>
+  <void property="tipoHabitacion">
+   <string>1</string>
+  </void>
+  <void property="total">
+   <double>1.0</double>
+  </void>
+ </object>
+</java>
